@@ -21,5 +21,6 @@ Here's the current status of bloodborne on PS4U: the game currently boots into t
 
 # kindly find below the test video link for bloodborne on Ps4U(This is a very early build):
 
+https://youtu.be/VvanNsTSD4M?si=U2_jjnVrHQDoEQol
 
 https://files.fm/f/jxfcfryu76
