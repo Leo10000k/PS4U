@@ -15,7 +15,7 @@ Make more mainstream games Bootable
 
 # Game status 
 
-As a Soulsbone Fan, my main goal behind this project was to make bloodborne pc possible, other games come next.
+As a Soulsborne Fan, my main goal behind this project was to make bloodborne pc possible, other games come next.
 
 Here's the current status of bloodborne on PS4U: the game currently boots into the 1st cutscene and the opening level, no audio, graphical glitches and stutters, colors are messed up to blue. I'll hopefully try to fix these but don't expect fast progress as I work on this individually. 
 
