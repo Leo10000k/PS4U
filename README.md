@@ -8,7 +8,9 @@ For Linux users use : sudo apt-get install build-essential libasound2-dev libpul
 
 # To-do 
 Fix more bloodborne issues
+
 Make a windows build 
+
 Make more mainstream games Bootable 
 
 # Game status 
