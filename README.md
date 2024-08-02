@@ -19,6 +19,7 @@ As a Soulsbone Fan, my main goal behind this project was to make bloodborne pc p
 
 Here's the current status of bloodborne on PS4U: the game currently boots into the 1st cutscene and the opening level, no audio, graphical glitches and stutters, colors are messed up to blue. I'll hopefully try to fix these but don't expect fast progress as I work on this individually. 
 
-# kindly find below the test video on my YouTube channel :
+# kindly find below the test video link for bloodborne on Ps4U(This is a very early build):
 
 
+https://files.fm/f/jxfcfryu76
